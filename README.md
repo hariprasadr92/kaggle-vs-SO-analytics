@@ -4,7 +4,7 @@ Software based on 2018 Kaggle and StackOverflow developer survey
 
 This a analytics project trying to find some insights from the data collected from 2018 developer survey of Kaggle and Stack overflow. 
 
-This project is an extesnion of the work done in the below kaggle notebook. But I used 2018 data.
+This project is an extention of the work done in the below kaggle notebook.I used 2018 data.
 
 https://www.kaggle.com/carlossouza/comparing-kaggle-and-stackoverflow-communities
 
