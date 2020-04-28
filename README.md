@@ -1,4 +1,4 @@
-# kaggle-vs-SO-analytics
+# kaggle-vs-so-analytics
 Software based on 2018 Kaggle and StackOverflow developer survey
 
 
